@@ -1,6 +1,6 @@
 {
   "name": "agnostic-html",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A utility function that safely parses HTML strings into DOM nodes, avoiding the use of innerHTML for security reasons.",
   "main": "index.js",
   "types": "index.d.ts",
