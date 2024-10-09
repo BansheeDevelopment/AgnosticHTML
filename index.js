@@ -1,13 +1,15 @@
 /**
- * AgnosticHTML 0.4.1 by Banshee Development
- * MIT License
- * https://www.banshee.pro
- * 
+ * AgnosticHTML 0.4.2
+ *
  * A utility function that safely parses HTML strings into DOM nodes,
  * avoiding the use of innerHTML for security reasons.
  * Now with configurable debugging capabilities (log/warn) similar to AgnosticRun.
- * 
- * Copyright (c) 2024 Banshee
+ *
+ * Developed by Claudio González (claudio@banshee.pro)
+ * for Banshee Technologies - https://www.banshee.pro
+ *
+ * MIT License
+ * Copyright (c) 2024 Banshee Technologies. All rights reserved.
  */
 
 let globalDebugLog = false;
